@@ -43,4 +43,4 @@ async def reboot(ctx):
     await bot.logout()
 
 ########################################################################################################################
-bot.run(TOKEN) #type in here your Token
+bot.run(TOKEN) #type in here your Token.
